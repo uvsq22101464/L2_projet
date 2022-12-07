@@ -1,3 +1,4 @@
+# projet qui permet d'extraire les données d'un fichier .json contenant des données de tweets et d'en faire l'analyse
 import pandas as pd
 import re
 import matplotlib.pyplot as plt
